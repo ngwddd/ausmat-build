@@ -1,0 +1,177 @@
+[
+ {
+  "date": "9/21 (Mon) 16:30–17:30",
+  "subject": "All",
+  "detail": "★ACCT exam briefing"
+ },
+ {
+  "date": "9/21–10/2",
+  "subject": "CSC",
+  "detail": "Task 3 Semester 1 examination (15%, 3 hours) ⚠ relationship to the official EE on 10/27 to be confirmed with the teacher"
+ },
+ {
+  "date": "10/2 (Fri)",
+  "subject": "PHY",
+  "detail": "Task 2 Evaluation &amp; Analysis (12%) —— the other class is on 10/12, confirm with your own class"
+ },
+ {
+  "date": "10/17 (Sat)",
+  "subject": "HBY",
+  "detail": "Lab Assessment (Ch1, 10%)"
+ },
+ {
+  "date": "10/27 (Tue) 14:00–15:35",
+  "subject": "CSC",
+  "detail": "EE (Evaluation Exam) 95 minutes"
+ },
+ {
+  "date": "10/29 (Thu) 14:00–15:00",
+  "subject": "CSC",
+  "detail": "ACCT 60 minutes · whether it counts towards marks to be confirmed"
+ },
+ {
+  "date": "10/30 (Fri) 09:00–10:35",
+  "subject": "ELD",
+  "detail": "EE 95 minutes = Task 4 listening 7% + Task 5 reading/visual comprehension and synthesis writing 8%, total 15%"
+ },
+ {
+  "date": "10/30 (Fri) 14:00–15:00",
+  "subject": "ELD",
+  "detail": "ACCT 60 minutes · same day as the EE"
+ },
+ {
+  "date": "11/2 (Mon) 09:20–10:20",
+  "subject": "MAM12",
+  "detail": "ACCT 60 minutes · coverage: differentiation, integration, discrete random variables (excluding logarithms)"
+ },
+ {
+  "date": "11/2 (Mon) 14:00–15:35",
+  "subject": "MAM12",
+  "detail": "Topic Test 2 = EE (20%, 95 minutes) · coverage: differentiation, integration, logarithmic functions"
+ },
+ {
+  "date": "11/3 (Tue)",
+  "subject": "All",
+  "detail": "No exams college-wide"
+ },
+ {
+  "date": "11/4 (Wed) 09:20–10:20",
+  "subject": "PHY",
+  "detail": "ACCT 60 minutes"
+ },
+ {
+  "date": "11/4 (Wed) 14:00–15:35",
+  "subject": "PHY",
+  "detail": "Task 3 Evaluation Exam (EE, 20%, 95 minutes)"
+ },
+ {
+  "date": "11/5 (Thu) 09:20–10:20",
+  "subject": "HBY",
+  "detail": "ACCT 60 minutes"
+ },
+ {
+  "date": "11/5 (Thu) 14:00–15:35",
+  "subject": "HBY",
+  "detail": "Evaluation Exam (Ch1–8, 20%, 95 minutes) ⚠ official 11/5 (Thu), timetable originally printed 11/6"
+ },
+ {
+  "date": "11/12 (Thu)",
+  "subject": "All",
+  "detail": "No exams college-wide"
+ },
+ {
+  "date": "11/19 (Thu)",
+  "subject": "CSC",
+  "detail": "Task 4 Theory Test (10%, networks and network security) ⚠ the week schedule states 10/22 instead, to be confirmed"
+ },
+ {
+  "date": "11/23 (Mon)",
+  "subject": "CSC",
+  "detail": "Task 5 Project 2 released/starts (database project, 20%)"
+ },
+ {
+  "date": "11/27 (Fri)",
+  "subject": "PHY",
+  "detail": "Task 4 Lab Assessment —— practical part"
+ },
+ {
+  "date": "12/9 (Wed)",
+  "subject": "PHY",
+  "detail": "Task 4 Lab Assessment —— written test part (practical + written test total 10%)"
+ },
+ {
+  "date": "12/9 (Wed)",
+  "subject": "ELD",
+  "detail": "Task 6 in-class persuasive speech (10%)"
+ },
+ {
+  "date": "12/14 (Mon)",
+  "subject": "CSC",
+  "detail": "Project 2 Part 2 in-class validation"
+ },
+ {
+  "date": "12/16 (Wed)",
+  "subject": "MAM12",
+  "detail": "Topic Test 3 (10%) · discrete/continuous random variables, binomial distribution, normal distribution, interval estimation of proportions"
+ },
+ {
+  "date": "12/17 (Thu)",
+  "subject": "HBY",
+  "detail": "Extended Response 2 (Ch8–10, 8%)"
+ },
+ {
+  "date": "12/18 (Fri)",
+  "subject": "CSC",
+  "detail": "Project 2 Part 1 (design and development, 8%) submission"
+ },
+ {
+  "date": "1/4 (Mon)",
+  "subject": "CSC",
+  "detail": "Project 2 Part 2 (SQL/RDBMS practical validation, 12%) deadline"
+ },
+ {
+  "date": "1/4–1/8",
+  "subject": "ELD",
+  "detail": "Task 7 oral persuasive speech (10%)"
+ },
+ {
+  "date": "1/8 (Fri)",
+  "subject": "ELD",
+  "detail": "Task 2B Investigation Part B research report deadline (10%)"
+ },
+ {
+  "date": "1/13 (Wed)",
+  "subject": "HBY",
+  "detail": "Topic Test 2 (Ch10–12, 15%) · tentative, may be rescheduled due to Talk/university visit"
+ },
+ {
+  "date": "1/14 (Thu)",
+  "subject": "PHY",
+  "detail": "Task 5 Topic Test 2 (14%) · electromagnetism, wave-particle duality, quantum theory"
+ },
+ {
+  "date": "1/25–2/4",
+  "subject": "CSC",
+  "detail": "Task 6 Semester 2 examination (25%, 3 hours)"
+ },
+ {
+  "date": "1/29–2/12",
+  "subject": "ELD",
+  "detail": "Task 8 Final Examination (30%)"
+ },
+ {
+  "date": "1/29–2/12",
+  "subject": "HBY",
+  "detail": "Final Exam (Ch1–13, 30%)"
+ },
+ {
+  "date": "1/29–2/13",
+  "subject": "PHY",
+  "detail": "Task 6 Final Evaluation (FE, 30%, all of Unit 3+4)"
+ },
+ {
+  "date": "2/1–2/12",
+  "subject": "MAM12",
+  "detail": "Final Examination (40%, all of Unit 3+4)"
+ }
+]

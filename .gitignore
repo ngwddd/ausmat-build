@@ -1,0 +1,14 @@
+# 产物仓库与本地环境
+my-site/
+corpus/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store

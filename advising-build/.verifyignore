@@ -1,0 +1,7 @@
+# .verifyignore —— 让项目自己声明「这些文件不参与检查」
+# 一行一个 glob（相对项目根，支持 * 和 **）。# 开头是注释。
+#
+# 这个目录里的 src/current-index.html 是**模板**，不是发布出去的页面：
+# 里面的 advising-rules.js 等相对路径是站在站点部署位置（notes/advising/）写的，
+# 拿它当普通页面做链接检查必然误报。
+src/current-index.html
